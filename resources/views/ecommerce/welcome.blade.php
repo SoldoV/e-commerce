@@ -1,6 +1,7 @@
 @extends('_layout._ecommerce')
 
 @section('content')
+aaa
     @include('_includes._ecommerce._carousel')
     <div class="row">
         @if(isset($products))
